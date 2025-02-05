@@ -1,0 +1,17 @@
+# -*- mode: gitignore; -*-
+
+*~
+
+\#*\#
+
+/.emacs.desktop
+
+/.emacs.desktop.lock
+
+*.elc
+
+liste de sauvegarde automatique
+
+tramp
+
+.\#*
