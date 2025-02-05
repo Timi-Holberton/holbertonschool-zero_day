@@ -1,3 +1,2 @@
-$ cat .gitignore
-*.[oa]
-*~
+$ touch ~/.gitignore
+$ git config --global core.excludesFile ~/.gitignore
